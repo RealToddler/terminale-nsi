@@ -1,4 +1,4 @@
-# https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2022/#exercice-181
+# https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2022/#sujet-18
 
 # Exercice 1
 
