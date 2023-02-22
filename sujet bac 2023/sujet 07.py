@@ -1,4 +1,4 @@
-# # https://pixees.fr/informatiquelycee/term/ep/index.html
+# https://pixees.fr/informatiquelycee/term/ep/index.html
 
 # Exercice 1
 
